@@ -97,5 +97,5 @@ else
 endif
 	$(info Clean Finished)
 
-.PHONY = all hex clean precheck echo
+.PHONY: all hex clean precheck echo
 .SUFFIXES: .c .rel
